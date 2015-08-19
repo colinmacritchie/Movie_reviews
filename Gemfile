@@ -17,11 +17,6 @@ gem 'coffee-rails', '~> 4.1.0'
 #Devise Gem.
 gem 'devise', '~> 3.5.2'
 
-#Simple Forms.
-gem 'simple_form', '~> 3.1.0'
-
-
-
 
 
 # Use jquery as the JavaScript library
