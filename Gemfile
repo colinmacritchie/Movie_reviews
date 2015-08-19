@@ -20,6 +20,8 @@ gem 'devise', '~> 3.5.2'
 #Image uploading
 gem 'paperclip', '~> 4.3.0'
 
+gem 'bootstrap-sass', '~> 3.3.5.1'
+
 
 # Use jquery as the JavaScript library
 gem 'jquery-rails'
